@@ -1,4 +1,4 @@
-/* === This is just starter file for you, WAtch full video tutorial on YouTube or get the source code
+/* === This is just starter file for you, Watch full video tutorial on YouTube or get the source code
  on Buymecoffee page and get access to more login forms and web projects.
  Thanks for your support!!.
 link below! 

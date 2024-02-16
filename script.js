@@ -1,7 +1,8 @@
-/* === if you find this source code helpul,Feel free to support our channel
+/* === This is just starter file for you, WAtch full video tutorial on YouTube or get the source code
  on Buymecoffee page and get access to more login forms and web projects.
+ Thanks for your support!!.
 link below! 
-  https://buymeacoffee.com/mrsmartchoice === 
+  https://buymeacoffee.com/mrsmartchoice 
   
   Check out more design :https://dribbble.com/mrsmartchoice
 
@@ -14,7 +15,7 @@ link below!
 const toggleBtn = document.querySelector('.toggle-btn');
 
     // Toggle the sidebar
-    sidebar.classList.toggle('active');
+
 
 
 

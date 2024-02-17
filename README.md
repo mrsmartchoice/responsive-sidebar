@@ -1,6 +1,5 @@
-# responsive-sidebar
 # Responsive Sidebar Menu 
-## [Watch it on youtube](https://www.youtube.com/@mr-smartchoice)
+## [Watch it on youtube](https://youtu.be/31vRRdAaGAk)
 ### Responsive navigation sidebar 
 
 - Responsive Space Sidebar Menu Using HTML CSS & JavaScript
